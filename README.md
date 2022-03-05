@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @oneboyi
 - 👀 I’m interested programming
-- 🌱 I’m currently learning C/C++
+- 🌱 I’m currently learning Python/Java
 - 💞️ I’m looking to collaborate on workers
 - 📫 How to reach me 1966787592@qq.com/wwaannbbooyyii@gmail.com
 
